@@ -1,4 +1,3 @@
-![Capture](https://user-images.githubusercontent.com/104656809/183545915-059a152b-006e-4d61-a629-d7e72a491e84.PNG)
 # [Sweet]
 Sweet | Fps &amp; Latency 🛠                                                                                                                        Owner Cudlin#9949
 ---------------------------- -
@@ -18,3 +17,5 @@ Ex: not following the disclaimers carefully.
 • [Download The SweetCtrl Optimizing in Your pc](https://github.com/Cudlin/SweetCtrl/releases/latest/download/SweetCtrl.bat)
 
 • [Support](https://discord.gg/rYxw4Fxsrb)
+
+![Capture](https://user-images.githubusercontent.com/104656809/183545915-059a152b-006e-4d61-a629-d7e72a491e84.PNG)
