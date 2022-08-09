@@ -1,3 +1,4 @@
+![Capture](https://user-images.githubusercontent.com/104656809/183545915-059a152b-006e-4d61-a629-d7e72a491e84.PNG)
 # SweetCtrl                  -
 Sweet | Fps &amp; Latency 🛠
 ---------------------------- -
