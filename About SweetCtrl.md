@@ -1,4 +1,5 @@
-# 36m[Weclome To Sweet Control panel
+Color D
+# Weclome To Sweet Control panel
 Sweet | Fps &amp; Latency 🛠
 ---------------------------- -
 Hello Gamers
