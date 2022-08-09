@@ -1,4 +1,4 @@
-# Weclome t oSweet Cotrol panel
+# Weclome to Sweet Cotrol panel
 Sweet | Fps &amp; Latency 🛠
 ---------------------------- -
 Hello Gamers
