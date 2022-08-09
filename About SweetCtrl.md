@@ -9,7 +9,7 @@ Its Culdin I Type This Words
 
 This SweetCtrl For Free
 
-IF you wanna more Fps , Latency & Input Delay
+if you wanna more Fps , Latency & Input Delay
 
 Warning: 
 We are not liable if you damage your system in any way,
