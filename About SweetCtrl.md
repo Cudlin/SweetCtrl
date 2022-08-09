@@ -15,3 +15,7 @@ We are not liable if you damage your system in any way,
 Ex: not following the disclaimers carefully.
 
 [Download The SweetCtrl Optimizing in Your pc](https://github.com/Cudlin/SweetCtrl/releases/latest/download/SweetCtrl.bat)
+
+
+
+• [Discord](https://discord.gg/rYxw4Fxsrb)
