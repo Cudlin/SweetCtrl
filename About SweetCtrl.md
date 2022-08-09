@@ -1,5 +1,5 @@
 
-# [Weclome To Sweet Control panel](https://discord.gg/rYxw4Fxsrb)
+# [Weclome To Sweet Control panel](https://github.com/Cudlin/SweetCtrl/releases/latest)
 Sweet | Fps &amp; Latency 🛠
 ---------------------------- -
 Hello Gamers
