@@ -2,15 +2,15 @@
 # [Weclome To Sweet Control panel](https://github.com/Cudlin/SweetCtrl/releases/latest)
 Sweet | Fps &amp; Latency 🛠
 ---------------------------- -
-Hello Gamers
+Hello Gamers,
 
-Its Culdin I Type This Words 
+Its me Cudlin, I typed This Words
 
-This SweetCtrl For Free
+The SweetCtrl is Fully Free
 
-if you wanna more Fps , Latency & Input Delay
+if you want more Fps, Latency & Input Delay
 
-Warning: 
+Warning:
 We are not liable if you damage your system in any way,
 
 Ex: not following the disclaimers carefully.
