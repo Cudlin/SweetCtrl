@@ -1,5 +1,5 @@
-Color D
-# Weclome To Sweet Control panel
+
+# [Weclome To Sweet Control panel](https://discord.gg/rYxw4Fxsrb)
 Sweet | Fps &amp; Latency 🛠
 ---------------------------- -
 Hello Gamers
