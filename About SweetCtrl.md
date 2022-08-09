@@ -1,5 +1,5 @@
 # [Sweet]
-Sweet | Fps &amp; Latency 🛠                                                                                                                        Owner Cudlin#9949
+Sweet | Fps &amp; Latency 🛠
 ---------------------------- -
 Hello Gamers
 
@@ -19,3 +19,4 @@ Ex: not following the disclaimers carefully.
 • [Support](https://discord.gg/rYxw4Fxsrb)
 
 ![Capture](https://user-images.githubusercontent.com/104656809/183545915-059a152b-006e-4d61-a629-d7e72a491e84.PNG)
+Owner Cudlin#9949
