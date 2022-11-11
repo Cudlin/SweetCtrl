@@ -19,4 +19,4 @@
 
 • [Support](https://discord.gg/rYxw4Fxsrb)
 
-![Capture](https://cdn.discordapp.com/attachments/970166474817798194/1017756420030091315/Capture.PNG)
+![Capture]()
