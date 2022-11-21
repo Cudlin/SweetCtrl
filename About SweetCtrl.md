@@ -8,7 +8,7 @@
 
 > The SweetCtrl is Fully Free
 
-> if you want more Fps, Latency & Input Delay
+> if you want more Fps, Latency & Remove the Input Delay
 
 > Warning:
 > We are not liable if you damage your system in any way,
